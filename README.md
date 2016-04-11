@@ -1,1 +1,3 @@
 # principles-and-practice-cpp
+
+Teaching an old dog new tricks...
